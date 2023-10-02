@@ -1,0 +1,2 @@
+What is a remote repository?
+a repository that is hosted on a server that is not your local machine. so basically git. 
